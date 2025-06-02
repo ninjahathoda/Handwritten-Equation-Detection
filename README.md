@@ -38,6 +38,9 @@ This project implements a deep learning model for offline handwritten text recog
 ## 🧪 Training
 
 Before training, make sure your data has been converted using `gen_pkl.py`.
+## BEST RESULT
+| Metric                       | Value     |
+| ---------------------------- | --------- |
+| **WER** (Word Error Rate)    | `0.18241` |
+| **SACC** (Sequence Accuracy) | `0.36324` |
 
-```bash
-python Train.py
