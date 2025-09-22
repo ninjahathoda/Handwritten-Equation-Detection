@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📝 Handwritten Text Recognition using DenseNet and Attention-based RNN
 
 This project implements a deep learning model for offline handwritten text recognition. The architecture combines a CNN-based **DenseNet encoder** with an **Attention-based RNN decoder**, allowing the model to extract meaningful features from handwritten word images and generate the corresponding word sequence.
@@ -44,3 +45,6 @@ Before training, make sure your data has been converted using `gen_pkl.py`.
 | **WER** (Word Error Rate)    | `0.18241` |
 | **SACC** (Sequence Accuracy) | `0.36324` |
 
+=======
+# Handwritten-Equation-Detection
+>>>>>>> d345fe547ba69737ba7f1f567498902465fefd54
