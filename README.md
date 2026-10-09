@@ -1,4 +1,4 @@
-# Handwritten Text Recognition using DenseNet and Attention-based RNN
+# Handwritten Text Recognition using DenseNet and Attention-based GRU
 
 This project implements a deep learning model for offline handwritten text recognition. The architecture combines a CNN-based **DenseNet encoder** with an **Attention-based RNN decoder**, allowing the model to extract meaningful features from handwritten word images and generate the corresponding word sequence.
 
